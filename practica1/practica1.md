@@ -6,7 +6,7 @@ Jaime Álvarez Orgaz
 
 Para la realización de esta práctica vamos a necesitar dos máquinas con Ubuntu Server. En ambas máquinas vamos a necesitar tener instalado LAMP que nos proporcionará apache, php y mysql. En la proxima imagen se puede ver que mis dos máquinas estan funcionando correctamente.
 
-![Imagen Máquinas](/Users/jaime/Documents/SWAP/practica1/Img/maquinas.png)
+![Imagen Máquinas](maquinas.png)
 
 Para acceder a una maquina mediante SSH previamente hemos de haber configurado en cada una de ellas un adaptador de red en modo nat y otro en solo-anfitrión, para así crear una red local entra ambas máquinas y el anfitrión.
 
