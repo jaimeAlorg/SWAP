@@ -4,7 +4,7 @@ Jaime Álvarez Orgaz
 
 ## Configuración
 
-Para la realización de esta práctica vamos a necesitar dos máquinas con Ubuntu Server. En ambas máquinas vamos a necesitar tener instalado LAMP que nos proporcionará apache, php y mysql. En la proxima imagen se puede ver que mis dos máquinas estan funcionando correctamente.
+Para la realización de esta práctica vamos a necesitar dos máquinas con Ubuntu Server. En ambas máquinas vamos a necesitar tener instalado LAMP que nos proporcionará apache, php y mysql. En la próxima imagen se puede ver que mis dos máquinas estan funcionando correctamente.
 
 ![Imagen Máquinas](https://github.com/jaimeAlorg/SWAP/blob/master/practica1/Img/maquinas.png)
 
